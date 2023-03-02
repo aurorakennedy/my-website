@@ -1,2 +1,2 @@
 # my-website
-Setting up my Kennedy.no
+Setting up Kennedy.no
